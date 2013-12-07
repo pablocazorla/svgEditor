@@ -1,0 +1,20 @@
+body{color:#EEE}
+#docTabber{background:#333}
+
+.doc,
+#docTabs div.current{background:#777;}
+.doc,
+#docTabs div{border-color:#999;}
+
+
+.panel .panelBase{background:#525252;border-color:#393939;}
+.panel .panelHeader{box-shadow:0 1px 0 0 #666}
+
+.panel .panelHeader,
+.panel .panelIcon{background-color:#393939;border-color:#222;}
+
+.panel .panelBase,
+.panel .panelIcon{box-shadow: 0 2px 7px rgba(0, 0, 0, 0.4)}
+
+/* ICONS */
+.icon{background:#C0C0C0}
